@@ -36,7 +36,8 @@ This section should reference the examples in the previous section and disect th
 -->
 
 # Drawbacks
-<!-- Why should this not be added. -->
+Some of the drawbacks of having alt text in Revolt would be:
+1. Alt text could be abused to not include the proper alt text of the media.
 
 # Rationale and alternatives
 <!--
@@ -50,7 +51,7 @@ This section should reference the examples in the previous section and disect th
 This should include both good and bad outlooks on the proposal. This could include how other platforms, software and hardware solve similar issues if relevent or how any existing proposals have tried to solve the same problem.
 -->
 
-A few alt text systems have been created on other websites before Revolt:
+A few alt text systems have been created on other websites other than Revolt:
 
 ## Pixelfed
 Pixelfed has an alt text system when creating a new post. To access the alt text entry, you would need to click on the "Alt Text" button. Doing this will display a page that will show a small thumbnail of the image on the left side, and a alt text entry on the right side.
